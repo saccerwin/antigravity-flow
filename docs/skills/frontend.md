@@ -1,6 +1,6 @@
 # 🎨 Frontend & UI/UX
 
-## View all 312 skills
+## View all 303 skills
 
 | Skill Name | Description |
 | --- | --- |
@@ -8,6 +8,7 @@
 | `10-andruia-skill-smith` | Ingeniero de Sistemas de Andru.ia. Diseña, redacta y despliega nuevas habilidades (skills) dentro del repositorio siguiendo el Estándar de Diamante. |
 | `20-andruia-niche-intelligence` | Estratega de Inteligencia de Dominio de Andru.ia. Analiza el nicho específico de un proyecto para inyectar conocimientos, regulaciones y estándares únicos del sector. Actívalo tras definir el nicho. |
 | `3d-web-experience` | Expert in building 3D experiences for the web - Three.js, React Three Fiber, Spline, WebGL, and interactive 3D scenes. Covers product configurators, 3D portfolios, immersive websites, and bringing ... |
+| `aceternity-ui` | Implementation patterns for Aceternity UI's high-fidelity components and animated backgrounds. |
 | `affiliate-blog-builder` | Write SEO-optimized affiliate blog articles, product reviews, comparison posts, listicles, and how-to guides. Triggers on: "write a blog post about", "review of [product]", "best [category] article... |
 | `agent-tool-builder` | Tools are how AI agents interact with the world. A well-designed tool is the difference between an agent that works and one that hallucinates, fails silently, or costs 10x more tokens than necessar... |
 | `agent-ui` | Batteries-included agent component for React/Next.js from ui.inference.sh. One component with runtime, tools, streaming, approvals, and widgets built in. Capabilities: drop-in agent, human-in-the-l... |
@@ -24,8 +25,8 @@
 | `auth-module-builder` | Implements secure authentication patterns including login/registration, session management, JWT tokens, password hashing, cookie settings, and CSRF protection. Provides auth routes, middleware, sec... |
 | `auth0-nextjs` | Use when adding authentication to Next.js applications (login, logout, protected pages, middleware, server components) - supports App Router and Pages Router with @auth0/nextjs-auth0 SDK. |
 | `auth0-quickstart` | Use when adding authentication or login to any app - detects your stack (React, Next.js, Vue, Nuxt, Angular, Express, Fastify, React Native), sets up an Auth0 account if needed, and routes to the c... |
-| `auth0-react` | Use when adding authentication to React applications (login, logout, user sessions, protected routes) - integrates @auth0/auth0-react SDK for SPAs with Vite or Create React App |
 | `auth0-react-native` | Use when adding authentication to React Native or Expo mobile apps (iOS/Android) with biometric support - integrates react-native-auth0 SDK with native deep linking |
+| `auth0-react` | Use when adding authentication to React applications (login, logout, user sessions, protected routes) - integrates @auth0/auth0-react SDK for SPAs with Vite or Create React App |
 | `auth0-vue` | Use when adding authentication to Vue.js 3 applications (login, logout, user sessions, protected routes) - integrates @auth0/auth0-vue SDK for SPAs with Vite or Vue CLI |
 | `axiom-swiftui-animation-ref` | Use when implementing SwiftUI animations, understanding VectorArithmetic, using @Animatable macro, zoom transitions, UIKit/AppKit animation bridging, choosing between spring and timing curve animat... |
 | `axiom-swiftui-debugging` | Use when debugging SwiftUI view updates, preview crashes, or layout issues - diagnostic decision trees to identify root causes quickly and avoid misdiagnosis under pressure |
@@ -40,9 +41,9 @@
 | `baseline-ui` | Validates animation durations, enforces typography scale, checks component accessibility, and prevents layout anti-patterns in Tailwind CSS projects. Use when building UI components, reviewing CSS ... |
 | `bazel-build-optimization` | Optimize Bazel builds for large-scale monorepos. Use when configuring Bazel, implementing remote execution, or optimizing build performance for enterprise codebases. |
 | `blog-writing-guide` | Write, review, and improve blog posts for the Sentry engineering blog following Sentry's specific writing standards, voice, and quality bar. Use this skill whenever someone asks to write a blog pos... |
-| `brand-guidelines` | Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatt... |
 | `brand-guidelines-anthropic` | Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatt... |
 | `brand-guidelines-community` | Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatt... |
+| `brand-guidelines` | Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatt... |
 | `browser-extension-builder` | Expert in building browser extensions that solve real problems - Chrome, Firefox, and cross-browser extensions. Covers extension architecture, manifest v3, content scripts, popup UIs, monetization ... |
 | `build` | build |
 | `building-components` | Guide for building modern, accessible, and composable UI components. Use when building new components, implementing accessibility, creating composable APIs, setting up design tokens, publishing to ... |
@@ -68,8 +69,8 @@
 | `community-building` | When the user wants to build, grow, or improve a developer community on Discord, Slack, or forums. Trigger phrases include "developer community," "Discord server," "Slack community," "community str... |
 | `contract-testing-builder` | Implements API contract testing to ensure provider-consumer compatibility using Pact or similar tools. Prevents breaking changes with contract specifications and bi-directional verification. Use fo... |
 | `copilot-cli-quickstart` | Use this skill when someone wants to learn GitHub Copilot CLI from scratch. Offers interactive step-by-step tutorials with separate Developer and Non-Developer tracks, plus on-demand Q&A. Just say ... |
-| `core-web-vitals` | Optimize Core Web Vitals (LCP, INP, CLS) for better page experience and search ranking. Use when asked to "improve Core Web Vitals", "fix LCP", "reduce CLS", "optimize INP", "page experience optimi... |
 | `core-web-vitals-tuner` | Systematically improves Largest Contentful Paint (LCP), Interaction to Next Paint (INP), and Cumulative Layout Shift (CLS) with prioritized fixes and verification. Use for "Core Web Vitals", "perfo... |
+| `core-web-vitals` | Optimize Core Web Vitals (LCP, INP, CLS) for better page experience and search ranking. Use when asked to "improve Core Web Vitals", "fix LCP", "reduce CLS", "optimize INP", "page experience optimi... |
 | `create-github-issues-for-unmet-specification-requirements` | Create GitHub Issues for unimplemented requirements from specification files using feature_request.yml template. |
 | `css-architecture` | CSS architecture patterns — CSS modules, CSS-in-JS, cascade layers, container queries, logical properties, and scalable styling strategies |
 | `css-grid` | CSS Grid layout patterns — grid templates, auto-placement, subgrid, named areas, and responsive grids. |
@@ -94,6 +95,9 @@
 | `form-wizard-builder` | Builds multi-step forms with validation schemas (Zod/Yup), step components, shared state management, progress indicators, review steps, and error handling. Use when creating "multi-step forms", "wi... |
 | `fp-react` | Practical patterns for using fp-ts with React - hooks, state, forms, data fetching. Works with React 18/19, Next.js 14/15. |
 | `fp-ts-react` | Practical patterns for using fp-ts with React - hooks, state, forms, data fetching. Use when building React apps with functional programming patterns. Works with React 18/19, Next.js 14/15. |
+| `framer-motion-animator` | Advanced animation orchestration and micro-interaction patterns using Framer Motion. |
+| `framer-motion-best-practices` | Performance-optimized guidelines for Framer Motion animations to prevent re-renders and reduce bundle size. |
+| `frontend-aceternity` | Aceternity UI component identification, installation, and customization patterns for dramatic web effects. |
 | `frontend-design` | Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, or applications. Generates creative, polished co... |
 | `frontend-dev-guidelines` | Opinionated frontend development standards for modern React + TypeScript applications. Covers Suspense-first data fetching, lazy loading, feature-based architecture, MUI v7 styling, TanStack Router... |
 | `frontend-developer` | Build React components, implement responsive layouts, and handle client-side state management. Masters React 19, Next.js 15, and modern frontend architecture. |
@@ -105,6 +109,7 @@
 | `frontend-slides` | Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files. Use when the user wants to build a presentation, convert a PPT/PPTX to web, or create slides for a... |
 | `frontend-to-backend-requirements` | Document frontend data needs for backend developers. Use when frontend needs to communicate API requirements to backend, or user says 'backend requirements', 'what data do I need', 'API requirement... |
 | `frontend-ui-dark-ts` | Build dark-themed React applications using Tailwind CSS with custom theming, glassmorphism effects, and Framer Motion animations. Use when creating dashboards, admin panels, or data-rich interfaces... |
+| `giuseppe-shadcn-ui` | Specialized patterns for shadcn/ui components, custom adaptations, and advanced interface building. |
 | `guardrails-safety-filter-builder` | Implements content safety filters with PII redaction, policy constraints, prompt injection detection, and safe refusal templates. Use when adding "content moderation", "safety filters", "PII protec... |
 | `html-deck` | Create polished HTML presentations — interactive fullscreen deck + print/PDF version + presenter script. Design system: Inter font, CSS variables, component classes, JS keyboard/click/touch navigat... |
 | `html-injection-testing` | This skill should be used when the user asks to \"test for HTML injection\", \"inject HTML into web pages\", \"perform HTML injection attacks\", \"deface web applications\", or \"test conten... |
@@ -122,20 +127,20 @@
 | `macos-menubar-tuist-app` | Build, refactor, or review SwiftUI macOS menubar apps that use Tuist. |
 | `magic-ui-generator` | Utilizes Magic by 21st.dev to generate, compare, and integrate multiple production-ready UI component variations. |
 | `markdown-to-html` | Convert Markdown files to HTML similar to `marked.js`, `pandoc`, `gomarkdown/markdown`, or similar tools; or writing custom script to convert markdown to html and/or working on web template systems... |
-| `mcp-builder` | Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate exte... |
 | `mcp-builder-ms` | Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate exte... |
+| `mcp-builder` | Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate exte... |
 | `mcp-server-builder` | Builds Model Context Protocol (MCP) servers for Antigravity with tools, resources, and prompts. Use when users request "create MCP server", "build Antigravity tool", "MCP integration", or "custom A... |
 | `micro-frontends` | Micro-frontend architecture — module federation, single-spa, shared state, independent deployments |
 | `microsoft-azure-webjobs-extensions-authentication-events-dotnet` | Microsoft Entra Authentication Events SDK for .NET. Azure Functions triggers for custom authentication extensions. |
+| `motion-designer` | Dylan Tarre's motion design principles and implementation patterns for web interfaces. |
 | `mui` | Material-UI v7 component library patterns including sx prop styling, theme integration, responsive design, and MUI-specific hooks. Use when working with MUI components, styling with sx prop, theme ... |
 | `next-auth` | NextAuth.js / Auth.js authentication library for Next.js — providers, sessions, JWT, database adapters, middleware protection |
 | `next-best-practices` | Next.js best practices - file conventions, RSC boundaries, data patterns, async APIs, metadata, error handling, route handlers, image/font optimization, bundling |
 | `next-cache-components` | Next.js 16 Cache Components - PPR, use cache directive, cacheLife, cacheTag, updateTag |
 | `next-intl-add-language` | Add new language to a Next.js + next-intl application |
 | `next-upgrade` | Upgrade Next.js to the latest version following official migration guides and codemods |
-| `nextjs` | Next.js App Router, React Server Components, data fetching, caching, middleware, and deployment patterns |
-| `nextjs-app-router` | Provides patterns and code examples for building Next.js 16+ applications with App Router architecture. Use when creating projects with App Router, implementing Server Components and Client Compone... |
 | `nextjs-app-router-patterns` | Master Next.js 14+ App Router with Server Components, streaming, parallel routes, and advanced data fetching. Use when building Next.js applications, implementing SSR/SSG, or optimizing React Serve... |
+| `nextjs-app-router` | Provides patterns and code examples for building Next.js 16+ applications with App Router architecture. Use when creating projects with App Router, implementing Server Components and Client Compone... |
 | `nextjs-authentication` | Provides authentication implementation patterns for Next.js 15+ App Router using Auth.js 5 (NextAuth.js). Use when setting up authentication flows, implementing protected routes, managing sessions ... |
 | `nextjs-best-practices` | Next.js App Router principles. Server Components, data fetching, routing patterns. |
 | `nextjs-code-review` | Provides comprehensive code review capability for Next.js applications, validates Server Components, Client Components, Server Actions, caching strategies, metadata, API routes, middleware, and per... |
@@ -144,6 +149,7 @@
 | `nextjs-performance` | Expert Next.js performance optimization skill covering Core Web Vitals, image/font optimization, caching strategies, streaming, bundle optimization, and Server Components best practices. Use when o... |
 | `nextjs-supabase-auth` | Expert integration of Supabase Auth with Next.js App Router Use when: supabase auth next, authentication next.js, login supabase, auth middleware, protected route. |
 | `nextjs-turbopack` | Next.js 16+ and Turbopack — incremental bundling, FS caching, dev speed, and when to use Turbopack vs webpack. |
+| `nextjs` | Next.js App Router, React Server Components, data fetching, caching, middleware, and deployment patterns |
 | `nuxt-ui` | Use when building styled UI with @nuxt/ui v4 components - create forms with validation, implement data tables with sorting, build modal dialogs and overlays, configure Tailwind Variants theming. Us... |
 | `odoo-qweb-templates` | Expert in Odoo QWeb templating for PDF reports, email templates, and website pages. Covers t-if, t-foreach, t-field, and report actions. |
 | `odoo-xml-views-builder` | Expert at building Odoo XML views: Form, List, Kanban, Search, Calendar, and Graph. Generates correct XML for Odoo 14-17 with proper visibility syntax. |
@@ -164,7 +170,6 @@
 | `radix-ui-design-system` | Build accessible design systems with Radix UI primitives. Headless component customization, theming strategies, and compound component patterns for production-grade UI libraries. |
 | `rag-pipeline-builder` | Designs retrieval-augmented generation pipelines for document-based AI assistants. Includes chunking strategies, metadata schemas, retrieval algorithms, reranking, and evaluation plans. Use when bu... |
 | `rbac-permissions-builder` | Implements role-based access control with permission matrix, route guards, policy functions, and UI permission hints. Provides middleware/guards, helper utilities, test suggestions, and permission ... |
-| `react` | React patterns, hooks, state management, performance optimization, and component architecture for production applications |
 | `react-best-practices` | React and Next.js performance optimization guidelines from Vercel Engineering. This skill should be used when writing, reviewing, or refactoring React/Next.js code to ensure optimal performance pat... |
 | `react-code-review` | Provides comprehensive code review capability for React applications, validates component architecture, hooks usage, React 19 patterns, state management, performance optimization, accessibility com... |
 | `react-component-performance` | Diagnose slow React components and suggest targeted performance fixes. |
@@ -176,11 +181,11 @@
 | `react-hook-builder` | Creates custom React hooks for common patterns including data fetching, forms, authentication, local storage, debounce, and more. Use when users request "create custom hook", "React hook for", "use... |
 | `react-hook-form` | Performant, flexible forms with minimal re-renders using React Hook Form |
 | `react-modernization` | Upgrade React applications to latest versions, migrate from class components to hooks, and adopt concurrent features. Use when modernizing React codebases, migrating to React Hooks, or upgrading to... |
-| `react-native` | React Native and Expo patterns for building performant mobile apps. Covers list performance, animations with Reanimated, navigation, UI patterns, state management, platform-specific code, and Expo ... |
 | `react-native-architecture` | Build production React Native apps with Expo, navigation, native modules, offline sync, and cross-platform patterns. Use when developing mobile apps, implementing native integrations, or architecti... |
 | `react-native-best-practices` | Provides React Native performance optimization guidelines for FPS, TTI, bundle size, memory leaks, re-renders, and animations. Applies to tasks involving Hermes optimization, JS thread blocking, br... |
 | `react-native-brownfield-migration` | Provides an incremental adoption strategy to migrate native iOS or Android apps to React Native or Expo using @callstack/react-native-brownfield for initial setup. Use when planning migration steps... |
 | `react-native-design` | Master React Native styling, navigation, and Reanimated animations for cross-platform mobile development. Use when building React Native apps, implementing navigation patterns, or creating performa... |
+| `react-native` | React Native and Expo patterns for building performant mobile apps. Covers list performance, animations with Reanimated, navigation, UI patterns, state management, platform-specific code, and Expo ... |
 | `react-nextjs-development` | React and Next.js 14+ application development with App Router, Server Components, TypeScript, Tailwind CSS, and modern frontend patterns. |
 | `react-patterns` | React 19 performance patterns and composition architecture for Vite + Cloudflare projects. 50+ rules ranked by impact — eliminating waterfalls, bundle optimisation, re-render prevention, compositio... |
 | `react-router-data-mode` | Build React applications using React Router's data mode with createBrowserRouter and RouterProvider. Use when working with route objects, loaders, actions, Form, useFetcher, or pending/optimistic U... |
@@ -190,6 +195,7 @@
 | `react-state-management` | Master modern React state management with Redux Toolkit, Zustand, Jotai, and React Query. Use when setting up global state, managing server state, or choosing between state management solutions. |
 | `react-ui-patterns` | Modern React UI patterns for loading states, error handling, and data fetching. Use when building UI components, handling async data, or managing UI states. |
 | `react-useeffect` | React useEffect best practices from official docs. Use when writing/reviewing useEffect, useState for derived values, data fetching, or state synchronization. Teaches when NOT to use Effect and bet... |
+| `react` | React patterns, hooks, state management, performance optimization, and component architecture for production applications |
 | `reference-builder` | Creates exhaustive technical references and API documentation. Generates comprehensive parameter listings, configuration guides, and searchable reference materials. |
 | `regex-builder` | Construct, test, explain, and debug regular expressions with clear documentation and edge case handling |
 | `reka-ui` | Use when building with Reka UI (headless Vue components) - provides component API, accessibility patterns, composition (asChild), controlled/uncontrolled state, virtualization, and styling integrat... |
@@ -204,17 +210,19 @@
 | `security-requirement-extraction` | Derive security requirements from threat models and business context. Use when translating threats into actionable requirements, creating security user stories, or building security test cases. |
 | `senior-frontend` | Frontend development skill for React, Next.js, TypeScript, and Tailwind CSS applications. Use when building React components, optimizing Next.js performance, analyzing bundle sizes, scaffolding fro... |
 | `seo-authority-builder` | Analyzes content for E-E-A-T signals and suggests improvements to |
-| `shadcn` | Manages shadcn/ui components and projects, providing context, documentation, and usage patterns for building modern design systems. |
 | `shadcn-ui` | Expert guidance for integrating and building applications with shadcn/ui components, including component discovery, installation, customization, and best practices. |
+| `shadcn` | Manages shadcn/ui components and projects, providing context, documentation, and usage patterns for building modern design systems. |
 | `ship-learn-next` | Transform learning content (like YouTube transcripts, articles, tutorials) into actionable implementation plans using the Ship-Learn-Next framework. Use when user wants to turn advice, lessons, or ... |
 | `slack-bot-builder` | Build Slack apps using the Bolt framework across Python, JavaScript, and Java. Covers Block Kit for rich UIs, interactive components, slash commands, event handling, OAuth installation flows, and W... |
 | `smartui-skill` | Generates SmartUI visual regression test configurations for screenshot comparison on TestMu AI cloud. Framework-agnostic — works with Playwright, Selenium, Cypress, Puppeteer. Use when user mention... |
 | `squeeze-page-builder` | Build email capture landing pages (squeeze pages) as single self-contained HTML files. Triggers on: "build a squeeze page", "email capture page", "lead magnet page", "create an opt-in page", "build... |
+| `startup-motion-designer` | Motion design patterns and interaction strategies specifically for startup MVPs and landing pages. |
 | `state-ux-flow-builder` | Standardizes UX states for data fetching flows (loading, error, empty, success) and complex multi-view UI patterns. Provides state machine approach recommendations, loading skeletons, error boundar... |
+| `stitch-shadcn-ui` | Google Labs patterns for implementing shadcn/ui components with Google Stitch design alignment. |
 | `stitch-ui-design` | Expert guide for creating effective prompts for Google Stitch AI UI design tool. Use when user wants to design UI/UX in Stitch, create app interfaces, generate mobile/web designs, or needs help cra... |
-| `svelte` | SvelteKit development patterns — runes, component architecture, server-side rendering, form actions, and reactive state |
 | `svelte-code-writer` | CLI tools for Svelte 5 documentation lookup and code analysis. MUST be used whenever creating, editing or analyzing any Svelte component (.svelte) or Svelte module (.svelte.ts/.svelte.js). If possi... |
 | `svelte-core-bestpractices` | Guidance on writing fast, robust, modern Svelte code. Load this skill whenever in a Svelte project and asked to write/edit or analyze a Svelte component or module. Covers reactivity, event handling... |
+| `svelte` | SvelteKit development patterns — runes, component architecture, server-side rendering, form actions, and reactive state |
 | `sveltekit` | Build full-stack web applications with SvelteKit — file-based routing, SSR, SSG, API routes, and form actions in one framework. |
 | `table-builder` | Creates data table patterns with filtering, sorting, pagination, row actions, column configuration, server/client rendering modes, and empty/loading states. Use when building "data tables", "list v... |
 | `tailwind-animate` | Tailwind CSS animation utilities, tailwindcss-animate plugin, enter/exit/loop animations, and motion-safe patterns |
@@ -224,6 +232,12 @@
 | `tailwind-patterns` | Tailwind CSS v4 principles. CSS-first configuration, container queries, modern patterns, design token architecture. |
 | `tailwind-theme-builder` | Set up Tailwind v4 with shadcn/ui themed UI. Workflow: install dependencies, configure CSS variables with @theme inline, set up dark mode, verify. Use when initialising React projects with Tailwind... |
 | `tailwind-v4` | Tailwind CSS v4 CSS-first configuration, @theme directive, cascade layers, Lightning CSS engine, and migration from v3 |
+| `tailwindcss-advanced-design-systems` | Advanced design system architecture using Tailwind CSS tokens, variables, and semantic layers. |
+| `tailwindcss-advanced-layouts` | Expert utility patterns for complex layouts, grid systems, and flexbox configurations in Tailwind CSS. |
+| `tailwindcss-animations` | Framer Motion and Tailwind CSS animation patterns for creating high-performance motion effects. |
+| `tailwindcss-design` | Core design principles and implementation patterns using Tailwind CSS for creating distinctive UI. |
+| `tailwindcss-mobile-first` | Strategies and utilities for building responsive, mobile-first interfaces with Tailwind CSS breakpoints. |
+| `tailwindcss-responsive-darkmode` | Implementation patterns for responsive dark mode and theme switching using Tailwind CSS strategies. |
 | `tailwindcss` | Tailwind CSS utilities, custom configuration, design tokens, responsive design, and component styling patterns |
 | `tavily-web` | Web search, content extraction, crawling, and research capabilities using Tavily API |
 | `team-builder` | Interactive agent picker for composing and dispatching parallel teams |
@@ -234,17 +248,17 @@
 | `tools-ui` | Tool lifecycle UI components for React/Next.js from ui.inference.sh. Display tool calls: pending, progress, approval required, results. Capabilities: tool status, progress indicators, approval flow... |
 | `top-web-vulnerabilities` | This skill should be used when the user asks to \"identify web application vulnerabilities\", \"explain common security flaws\", \"understand vulnerability categories\", \"learn about inject... |
 | `typescript-frontend` | TypeScript for frontend development — generics, utility types, type-safe APIs, component typing, and developer experience patterns |
-| `ui` | Master UI orchestrator. Single entry point for all UI work. Routes to the right impeccable-* skill chain based on goal. Modes: fix (normalize+harden+polish), elevate (bolder+colorize+animate+deligh... |
 | `ui-animation` | Creates, reviews, and debugs UI motion and animation implementations. Covers springs, gestures, drag interactions, clip-path reveals, easing, timing, and animation review. Use when designing, imple... |
 | `ui-audit` | Audits web UI quality across accessibility, interaction, forms, typography, navigation, layout, performance, motion, and microcopy. Use when reviewing or refining frontend UI before merge or releas... |
-| `ui-design` | Defines visual systems, colour palettes, typography scales, and layout patterns for web UI. Produces design tokens and component styling for product dashboards (SaaS/admin/data-heavy) or marketing/... |
 | `ui-design-pipeline` | Inspiration-first UI design workflow — find real design references, define typography/color/spacing, generate illustrations via Gemini, then implement. Produces distinctive UI that avoids generic A... |
+| `ui-design` | Defines visual systems, colour palettes, typography scales, and layout patterns for web UI. Produces design tokens and component styling for product dashboards (SaaS/admin/data-heavy) or marketing/... |
 | `ui-skills` | Opinionated, evolving constraints to guide agents when building interfaces |
 | `ui-styling` | Create beautiful, accessible user interfaces with shadcn/ui components (built on Radix UI + Tailwind), Tailwind CSS utility-first styling, and canvas-based visual designs. Use when building user in... |
 | `ui-ux-designer` | Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools. |
-| `ui-ux-pro` | UI/UX best practices, accessibility compliance, design system guidance, and interaction design patterns |
 | `ui-ux-pro-max` | UI/UX design intelligence. 50 styles, 21 palettes, 50 font pairings, 20 charts, 9 stacks (React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind, shadcn/ui). Actions: plan, build, cr... |
+| `ui-ux-pro` | UI/UX best practices, accessibility compliance, design system guidance, and interaction design patterns |
 | `ui-visual-validator` | Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification. |
+| `ui` | Master UI orchestrator. Single entry point for all UI work. Routes to the right impeccable-* skill chain based on goal. Modes: fix (normalize+harden+polish), elevate (bolder+colorize+animate+deligh... |
 | `unit-test-vue-pinia` | Write and review unit tests for Vue 3 + TypeScript + Vitest + Pinia codebases. Use when creating or updating tests for components, composables, and stores; mocking Pinia with createTestingPinia; ap... |
 | `unocss` | UnoCSS instant atomic CSS engine, superset of Tailwind CSS. Use when configuring UnoCSS, writing utility rules, shortcuts, or working with presets like Wind, Icons, Attributify. |
 | `upgrading-react-native` | Upgrades React Native apps to newer versions by applying rn-diff-purge template diffs, updating package.json dependencies, migrating native iOS and Android configuration, resolving CocoaPods and Gr... |
@@ -253,7 +267,6 @@
 | `vercel-react-view-transitions` | Guide for implementing smooth, native-feeling animations using React's View Transition API (`<ViewTransition>` component, `addTransitionType`, and CSS view transition pseudo-elements). Use this ski... |
 | `video-prompting-guide` | Best practices and techniques for writing effective AI video generation prompts. Covers: Veo, Seedance, Wan, Grok, Kling, Runway, Pika, Sora prompting strategies. Learn: shot types, camera movement... |
 | `viral-generator-builder` | Expert in building shareable generator tools that go viral - name generators, quiz makers, avatar creators, personality tests, and calculator tools. Covers the psychology of sharing, viral mechanic... |
-| `vue` | Use when editing .vue files, creating Vue 3 components, writing composables, or testing Vue code - provides Composition API patterns, props/emits best practices, VueUse integration, and reactive de... |
 | `vue-best-practices` | MUST be used for Vue.js tasks. Strongly recommends Composition API with `<script setup>` and TypeScript as the standard approach. Covers Vue 3, SSR, Volar, vue-tsc. Load for any Vue, .vue files, Vu... |
 | `vue-debug-guides` | Vue 3 debugging and error handling for runtime errors, warnings, async failures, and SSR/hydration issues. Use when diagnosing or fixing Vue issues. |
 | `vue-jsx-best-practices` | JSX syntax in Vue (e.g., class vs className, JSX plugin config). |
@@ -261,8 +274,9 @@
 | `vue-pinia-best-practices` | Pinia stores, state management patterns, store setup, and reactivity with stores. |
 | `vue-router-best-practices` | Vue Router 4 patterns, navigation guards, route params, and route-component lifecycle interactions. |
 | `vue-testing-best-practices` | Use for Vue.js testing. Covers Vitest, Vue Test Utils, component testing, mocking, testing patterns, and Playwright for E2E testing. |
-| `vueuse` | Use when working with VueUse composables - track mouse position with useMouse, manage localStorage with useStorage, detect network status with useNetwork, debounce values with refDebounced, and acc... |
+| `vue` | Use when editing .vue files, creating Vue 3 components, writing composables, or testing Vue code - provides Composition API patterns, props/emits best practices, VueUse integration, and reactive de... |
 | `vueuse-functions` | Apply VueUse composables where appropriate to build concise, maintainable Vue.js / Nuxt features. |
+| `vueuse` | Use when working with VueUse composables - track mouse position with useMouse, manage localStorage with useStorage, detect network status with useNetwork, debounce values with refDebounced, and acc... |
 | `web-artifacts-builder` | Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state ma... |
 | `web-coder` | Expert 10x engineer with comprehensive knowledge of web development, internet protocols, and web standards. Use when working with HTML, CSS, JavaScript, web APIs, HTTP/HTTPS, web security, performa... |
 | `web-component-design` | Master React, Vue, and Svelte component patterns including CSS-in-JS, composition strategies, and reusable component architecture. Use when building UI component libraries, designing component APIs... |
