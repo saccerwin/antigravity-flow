@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "swift-concurrency",
+  "owner": "thebushidocollective",
+  "repo": "han",
+  "path": "plugins/languages/swift/skills/swift-concurrency",
+  "branch": "main",
+  "sha": "d58661bfc179831257571f8b74c6a8fca9af1b86",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "axiom-using-axiom",
+  "owner": "charleswiltgen",
+  "repo": "axiom",
+  "path": ".claude-plugin/plugins/axiom/skills/axiom-using-axiom",
+  "branch": "main",
+  "sha": "f826ee81fa5769965764b7bb379dba28577a07a9",
+  "source": "manual"
+}

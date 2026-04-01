@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "swift-language",
+  "owner": "alejandrolaborda",
+  "repo": "agent-tools",
+  "path": "plugins/apple/shared/skills/swift-language",
+  "branch": "main",
+  "sha": "cfc4dd533bbda9bf3efeae3995a399ef3730bc60",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "debug-log-patterns",
+  "owner": "xmgrex",
+  "repo": "ccx-arsenal",
+  "path": "plugins/pdca-debug-suite/skills/debug-log-patterns",
+  "branch": "main",
+  "sha": "9da3a5d408fc1e9c9a09f3a6f2f88ab93f68a338",
+  "source": "manual"
+}

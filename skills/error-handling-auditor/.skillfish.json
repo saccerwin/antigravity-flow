@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "error-handling-auditor",
+  "owner": "willsigmon",
+  "repo": "sigstack",
+  "path": "ops/sigmachines/claude/skills/error-handling-auditor",
+  "branch": "main",
+  "sha": "2c8164d1ea2cf4ee02955b88272cb57eaceef1e9",
+  "source": "manual"
+}

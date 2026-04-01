@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "scaffold-project",
+  "owner": "shravansunder",
+  "repo": "ai-tools",
+  "path": "plugins/ai-scaffold/skills/scaffold-project",
+  "branch": "master",
+  "sha": "190af292650263983481009a04956f7390b8826d",
+  "source": "manual"
+}

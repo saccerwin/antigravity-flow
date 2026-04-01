@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "ios-dev",
+  "owner": "shabaraba",
+  "repo": "shabaraba-cc-plugins",
+  "path": "packages/claude-org/skills/ios-dev",
+  "branch": "main",
+  "sha": "b55b935de3d8dbc8cda9fc3d532cd53ca8c7cb44",
+  "source": "manual"
+}

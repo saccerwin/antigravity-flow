@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "swift-best-practices",
+  "owner": "secondsky",
+  "repo": "claude-skills",
+  "path": "plugins/swift-best-practices/skills/swift-best-practices",
+  "branch": "main",
+  "sha": "5eaa1dddc7506213762e1098affe992d05603890",
+  "source": "manual"
+}

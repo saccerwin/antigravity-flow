@@ -1,0 +1,25 @@
+# Debug Investigation
+
+- issue:
+- expected_behavior:
+- observed_behavior:
+- reproduction_path:
+- evidence:
+  - logs:
+  - tests:
+  - stack_trace:
+  - runtime_state:
+- timeline:
+  - trigger:
+  - first_wrong_step:
+  - propagated_effects:
+  - final_symptom:
+- hypotheses:
+  - hypothesis:
+  - evidence_for:
+  - evidence_against:
+  - kill_condition:
+- likely_root_cause:
+- smallest_safe_fix:
+- validation:
+- residual_risk:

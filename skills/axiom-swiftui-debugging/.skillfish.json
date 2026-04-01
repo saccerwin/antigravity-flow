@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "axiom-swiftui-debugging",
+  "owner": "charleswiltgen",
+  "repo": "axiom",
+  "path": ".claude-plugin/plugins/axiom/skills/axiom-swiftui-debugging",
+  "branch": "main",
+  "sha": "7bb2dd39a340d85a5d64c380f56cc8d7e56a452f",
+  "source": "manual"
+}

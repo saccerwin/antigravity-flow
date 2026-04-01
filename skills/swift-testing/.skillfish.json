@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "swift-testing",
+  "owner": "johnrogers",
+  "repo": "claude-swift-engineering",
+  "path": "plugins/swift-engineering/skills/swift-testing",
+  "branch": "main",
+  "sha": "8bf64be1802b40f5df6dc496342e9465a1828cda",
+  "source": "manual"
+}

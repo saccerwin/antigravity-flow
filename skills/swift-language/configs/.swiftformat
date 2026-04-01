@@ -1,0 +1,114 @@
+# SwiftFormat - Swift 6.0
+# https://github.com/nicklockwood/SwiftFormat
+
+--swiftversion 6.0
+--exclude .build,DerivedData,Generated,Vendor,.swiftpm
+
+# Indentation
+--indent 4
+--tabwidth 4
+--smarttabs enabled
+--indentcase false
+--ifdef indent
+
+# Line breaks
+--linebreaks lf
+--maxwidth 120
+--wraparguments before-first
+--wrapparameters before-first
+--wrapcollections before-first
+--wrapconditions after-first
+--wrapreturntype if-multiline
+--wrapeffects if-multiline
+--wraptypealiases before-first
+--wrapternary before-operators
+--closingparen balanced
+
+# Spacing
+--operatorfunc spaced
+--nospaceoperators ..<,...
+--ranges spaced
+--typeattributes prev-line
+--varattributes same-line
+--funcattributes prev-line
+--storedvarattrs same-line
+--computedvarattrs same-line
+
+# Braces
+--allman false
+--guardelse auto
+--elseposition same-line
+--emptybraces no-space
+
+# Misc
+--decimalgrouping 3,4
+--binarygrouping 4,8
+--octalgrouping 4,8
+--hexgrouping 2,4
+--fractiongrouping disabled
+--exponentgrouping disabled
+--hexliteralcase lowercase
+--exponentcase lowercase
+
+# Imports
+--importgrouping alpha
+
+# Marks
+--marktypes always
+--markextensions always
+--markcategories true
+--categorymark "MARK: - %c"
+--extensionmark "MARK: - %t + %c"
+--groupedextension "MARK: %c"
+
+# Header
+--header strip
+
+# Self
+--self remove
+--selfrequired
+
+# Redundancy
+--redundanttype inferred
+--emptyextension remove
+
+# Trailing
+--commas always
+--trimwhitespace always
+--trailingclosures
+
+# Semicolons
+--semicolons inline
+
+# Enabled rules
+--enable acronyms,blankLineAfterImports,blankLinesAroundMark,blankLinesAtEndOfScope
+--enable blankLinesAtStartOfScope,blankLinesBetweenScopes,braces,consecutiveBlankLines
+--enable consecutiveSpaces,duplicateImports,elseOnSameLine,emptyBraces,enumNamespaces
+--enable extensionAccessControl,fileHeader,hoistPatternLet,indent,initCoderUnavailable
+--enable isEmpty,leadingDelimiters,linebreakAtEndOfFile,linebreaks,markTypes
+--enable modifierOrder,numberFormatting,opaqueGenericParameters,organizeDeclarations
+--enable preferKeyPath,redundantBackticks,redundantBreak,redundantClosure
+--enable redundantExtensionACL,redundantFileprivate,redundantGet,redundantInit
+--enable redundantLet,redundantLetError,redundantNilInit,redundantObjc
+--enable redundantOptionalBinding,redundantParens,redundantPattern,redundantRawValues
+--enable redundantReturn,redundantSelf,redundantType,redundantVoidReturnType
+--enable semicolons,sortDeclarations,sortImports,spaceAroundBraces,spaceAroundBrackets
+--enable spaceAroundComments,spaceAroundGenerics,spaceAroundOperators,spaceAroundParens
+--enable spaceInsideBraces,spaceInsideBrackets,spaceInsideComments,spaceInsideGenerics
+--enable spaceInsideParens,strongOutlets,strongifiedSelf,todos,trailingClosures
+--enable trailingCommas,trailingSpace,typeSugar,unusedArguments,void,wrap
+--enable wrapArguments,wrapAttributes,wrapConditionalBodies,wrapEnumCases
+--enable wrapMultilineStatementBraces,wrapSwitchCases,yodaConditions
+
+# Disabled rules
+--disable andOperator,assertionFailures,blankLinesBetweenImports,docComments
+--disable sortedSwitchCases,wrapMultilineConditionalAssignment
+
+# Modifier order
+--modifierorder override,public,open,internal,fileprivate,private,final,static,class,lazy,weak,unowned,optional,required,convenience,mutating,nonmutating,dynamic,prefix,infix,postfix
+
+# Declaration organization
+--organizetypes class,struct,enum,actor
+--organizationmode visibility
+--visibilityorder beforemarks,lifecyle,open,public,package,internal,fileprivate,private
+--lifecyclemethods init,deinit,viewDidLoad,viewWillAppear,viewDidAppear,viewWillDisappear,viewDidDisappear

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "moai-lang-swift",
+  "owner": "modu-ai",
+  "repo": "cc-plugins",
+  "path": ".claude/skills/moai-lang-swift",
+  "branch": "main",
+  "sha": "70aa7caa3b29335898a9ea107400e7005f2aa66a",
+  "source": "manual"
+}

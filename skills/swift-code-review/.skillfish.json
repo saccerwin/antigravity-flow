@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "swift-code-review",
+  "owner": "existential-birds",
+  "repo": "beagle",
+  "path": "plugins/beagle-ios/skills/swift-code-review",
+  "branch": "main",
+  "sha": "cffbca2b137a21158489b8c728949edd6a0db582",
+  "source": "manual"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "swift",
+  "owner": "onmyway133",
+  "repo": "claude-code-plugins",
+  "path": "plugins/super/skills/swift",
+  "branch": "main",
+  "sha": "e567fd4bb43fd133f8b1ca20d92693e73a73599f",
+  "source": "manual"
+}

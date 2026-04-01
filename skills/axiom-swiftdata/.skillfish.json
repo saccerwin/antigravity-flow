@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "axiom-swiftdata",
+  "owner": "charleswiltgen",
+  "repo": "axiom",
+  "path": ".claude-plugin/plugins/axiom/skills/axiom-swiftdata",
+  "branch": "main",
+  "sha": "672c86efa8b8c94490e12ee469bed94b77f4f01a",
+  "source": "manual"
+}
