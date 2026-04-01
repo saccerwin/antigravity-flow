@@ -60,7 +60,7 @@ model Post {
 In `.env`:
 
 ```env
-DATABASE_URL="mongodb+srv://user:password@cluster.mongodb.net/mydb?retryWrites=true&w=majority"
+DATABASE_URL="mongodb+srv://<USERNAME>:<PASSWORD>@<CLUSTER_URL>/<DATABASE_NAME>?retryWrites=true&w=majority"
 ```
 
 ## Migrations vs Introspection
