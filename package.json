@@ -1,6 +1,6 @@
 {
   "name": "@saccerwin/antigravity-flow",
-  "version": "1.1.0",
+  "version": "1.1.3",
   "description": "Antigravity Flow CLI - Skill ecosystem management for AI Engineering",
   "main": "dist/index.js",
   "bin": {
