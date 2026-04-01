@@ -3121,7 +3121,7 @@ At the core of Antigravity Flow is a **massive curated Skills library**:
 
 </details>
 
----
+------
 
 ## 💡 Example Capabilities
 
