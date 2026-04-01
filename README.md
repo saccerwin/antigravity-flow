@@ -84,25 +84,6 @@ npx @saccerwin/antigravity-flow init --local
 
 ---
 
-## 🧠 Mental Model
-
-> Antigravity Flow is not just a CLI.  
-> It is an **AI Intelligence Layer**.
-
-```
-Your AI Tool (Claude / Codex / Cursor / etc.)
-            ↓
-     Antigravity Flow
-            ↓
-     Structured Skills System
-            ↓
-   Consistent, High-Quality Output
-```
-
-Install once → every AI interaction becomes **more reliable, structured, and powerful**.
-
----
-
 ## 🧠 Skills System
 
 At the core of Antigravity Flow is a **massive curated Skills library**:
@@ -115,97 +96,11 @@ At the core of Antigravity Flow is a **massive curated Skills library**:
 - 📊 Analytics & Growth  
 - 🤖 AI & Agent Systems  
 
-Each skill is:
+**Each skill is:**
 
 - Optimized for AI consumption  
 - Structured for deterministic outputs  
 - Designed for real-world engineering workflows  
-
----
-
-## 💡 Example Capabilities
-
-With Antigravity Flow, your AI can:
-
-- Design scalable system architecture  
-- Generate production-ready APIs  
-- Build CI/CD pipelines  
-- Optimize cloud costs  
-- Debug complex issues systematically  
-- Enforce coding standards across teams  
-- Plan features with clear execution steps  
-
----
-
-## 🧪 Use Cases
-
-### 👨‍💻 Solo Developer
-- Faster coding  
-- Better architecture decisions  
-- Less prompt engineering  
-
-### 🏢 Team / Startup
-- Shared AI behavior  
-- Consistent outputs across devs  
-- Reduced onboarding time  
-
-### 🤖 AI-First Systems
-- Multi-agent workflows  
-- Structured reasoning  
-- Reliable automation pipelines  
-
----
-
-## ⚙️ Philosophy
-
-Antigravity Flow is built on 3 principles:
-
-### 1. Structure over randomness  
-AI should follow systems, not guess.
-
-### 2. Reusability over repetition  
-Skills should be reusable across projects.
-
-### 3. Consistency over creativity (when it matters)  
-Production systems require predictable outputs.
-
----
-
-## 🔒 Anti-Hallucination by Design
-
-Skills are designed to:
-
-- Enforce validation  
-- Reduce incorrect assumptions  
-- Encourage clarification when needed  
-- Guide AI toward safe, correct execution  
-
----
-
-## 🛠 Requirements
-
-- Node.js ≥ 18  
-- Any AI tool that supports external context / workflows  
-
----
-
-## 📦 Package
-
-```bash
-npm install @saccerwin/antigravity-flow
-```
-
-or run directly via:
-
-```bash
-npx @saccerwin/antigravity-flow
-```
-
----
-
-## 🧠 Extensive Skills Matrix
-
-The core of **Antigravity Flow** is a massive skills library that has been sanitized for duplicate content and carefully optimized for an Agentic environment.
 
 *(Click to expand the details of each category!)*
 
@@ -3225,6 +3120,85 @@ The core of **Antigravity Flow** is a massive skills library that has been sanit
 | `voice-ai-engine-development` | Build real-time conversational AI voice engines using async worker pipelines, streaming transcription, LLM agents, and TTS synthesis with interrupt handling and multi-provider support |
 
 </details>
+
+---
+
+## 💡 Example Capabilities
+
+With Antigravity Flow, your AI can:
+
+- Design scalable system architecture  
+- Generate production-ready APIs  
+- Build CI/CD pipelines  
+- Optimize cloud costs  
+- Debug complex issues systematically  
+- Enforce coding standards across teams  
+- Plan features with clear execution steps  
+
+---
+
+## 🧪 Use Cases
+
+### 👨‍💻 Solo Developer
+- Faster coding  
+- Better architecture decisions  
+- Less prompt engineering  
+
+### 🏢 Team / Startup
+- Shared AI behavior  
+- Consistent outputs across devs  
+- Reduced onboarding time  
+
+### 🤖 AI-First Systems
+- Multi-agent workflows  
+- Structured reasoning  
+- Reliable automation pipelines  
+
+---
+
+## ⚙️ Philosophy
+
+Antigravity Flow is built on 3 principles:
+
+### 1. Structure over randomness  
+AI should follow systems, not guess.
+
+### 2. Reusability over repetition  
+Skills should be reusable across projects.
+
+### 3. Consistency over creativity (when it matters)  
+Production systems require predictable outputs.
+
+---
+
+## 🔒 Anti-Hallucination by Design
+
+Skills are designed to:
+
+- Enforce validation  
+- Reduce incorrect assumptions  
+- Encourage clarification when needed  
+- Guide AI toward safe, correct execution  
+
+---
+
+## 🛠 Requirements
+
+- Node.js ≥ 18  
+- Antigravity IDE with support for external context and workflows
+---
+
+## 📦 Package
+
+```bash
+npm install @saccerwin/antigravity-flow
+```
+
+or run directly via:
+
+```bash
+npx @saccerwin/antigravity-flow
+```
 
 
 ## 🤝 Contribution
